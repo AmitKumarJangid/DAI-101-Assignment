@@ -1,5 +1,5 @@
 
-(Sorry sir actually my dataset is of 50mb and github only support upto 10mb)
+(Sorry for the inconvenience sir actually my dataset is of 50mb but github only support upto 10mb ,So I have provided the Dataset Download link)
 # Dataset Download
 This guide provides instructions for downloading and renaming a dataset from Kaggle.
 
